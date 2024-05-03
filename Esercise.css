@@ -1,0 +1,33 @@
+h1{
+    font-family:"Ubuntu Sans", sans-serif;
+}
+h1,h2,h3 {
+    color: rgb(27, 105, 221);
+}
+.test{
+     font-family:"Zilla Slab", serif;
+}
+
+.title2 {
+    background-color: rgb(213, 232, 69);
+}
+
+.nav{
+background-image: url(./IMGESC/Image\ 3.jpeg);
+}
+
+.list{
+    background-image: url(./IMGESC/Image2.jpeg);
+}
+
+button{
+    
+    background-color: rgb(239, 239, 13);
+    color: rgb(0, 0, 0);
+}
+
+button:hover{
+    background-color: yellowgreen;
+    color:white;
+}
+
